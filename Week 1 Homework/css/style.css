@@ -1,0 +1,49 @@
+Title {
+	
+	color: #FF1493;
+	text-align: center;
+	
+	 }
+
+ Body {
+ 	
+ 	background-color: #D3D3D3;
+ 	 	border: 5px solid purple;
+ 	 	text-align: center;
+ 	 }
+
+
+
+ H1 {
+ 	font-family: verdana;
+ 	font-size: 50px;
+ 	text-shadow: 5px 5px 5px #FF0000;
+ 	text-align: center;
+	}
+
+
+ H2 {font-family: verdana;
+ 	font-size: 40px;
+ 	color: #191970;
+
+ }
+
+ P {
+ 	font-family: optima;
+ 	font-size: 30px
+ 	color: green;
+
+ }
+
+ ol {
+
+ 	text-align: center;
+ 	color: #003399;
+ }
+
+ ul {
+ 
+ 	text-align: center;
+ 	color: #003399;
+ }
+
